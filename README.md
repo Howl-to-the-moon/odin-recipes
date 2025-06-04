@@ -14,4 +14,11 @@ Skills demostrated after completeing include:
         - Using elements and attritubes to create the pages
         - Linking said pages together as a complete website
 
-Message End
+
+
+Credits:
+
+Garlic Fries image: https://www.cookipedia.co.uk/recipes_wiki/Garlic_and_rosemary_thin_baked_fries
+
+Garlic Fries recipe: https://omadarling.com/wprm_print/easy-homemade-garlic-fries
+
