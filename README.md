@@ -26,3 +26,6 @@ Roasted Potatoes image: https://www.flickr.com/photos/90155432@N02/12154740976
 
 Roasted Potatoes recipe: https://www.loveandlemons.com/wprm_print/oven-roasted-potatoes
 
+Brown Sugar Cookies image: https://www.flickr.com/photos/samcyn/8178524892
+
+Brown Sugar Cookies recipe: https://littlenonni.com/wprm_print/3-ingredient-brown-sugar-cookies
