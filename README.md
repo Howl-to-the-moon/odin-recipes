@@ -22,3 +22,7 @@ Garlic Fries image: https://www.cookipedia.co.uk/recipes_wiki/Garlic_and_rosemar
 
 Garlic Fries recipe: https://omadarling.com/wprm_print/easy-homemade-garlic-fries
 
+Roasted Potatoes image: https://www.flickr.com/photos/90155432@N02/12154740976
+
+Roasted Potatoes recipe: https://www.loveandlemons.com/wprm_print/oven-roasted-potatoes
+
