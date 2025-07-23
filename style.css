@@ -1,5 +1,6 @@
 * {
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 body{
@@ -7,28 +8,35 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.card1 {
+
+img {
     display: inline-block;
-    background-color: midnightblue;
-    padding: 20px auto;
-    margin: 8px;
     width: 400px;
     height: auto;
 }
 
-.card2 {
+/* Hey guys wanna see me make the hardest version of using a border instead of
+just using border: */
+
+.cardB {
     display: inline-block;
     background-color: rgb(198, 215, 221);
     padding: 24px auto;
+    border: solid 8px;
+    border-color: rgb(18, 29, 59);
     margin: 8px;
     width: 400px;
     height: auto;
 }
 
-.filling {
-    display: block;
+.cardW {
+    display: inline-block;
     background-color: rgb(255, 255, 255);
     padding: 8px 8px;
     margin: 24px;
+    border: solid 8px;
+    border-color: rgb(18, 29, 59);
+    width: 400px;
+    height: auto;
     
 }
